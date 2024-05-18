@@ -1,0 +1,33 @@
+{
+  "tables": [
+    {
+      "name": "tiangong",
+      "columns": [
+        {
+          "name": "sessionId",
+          "type": "string"
+        },
+        {
+          "name": "type",
+          "type": "string"
+        },
+        {
+          "name": "role",
+          "type": "string"
+        },
+        {
+          "name": "content",
+          "type": "text"
+        },
+        {
+          "name": "name",
+          "type": "string"
+        },
+        {
+          "name": "additionalKwargs",
+          "type": "json"
+        }
+      ]
+    }
+  ]
+}
